@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Day01",
+    "\\Day02"
   ],
-  "SelectedNode": "\\C:\\Users\\m_lad\\Source\\Repos\\AOC2022",
+  "SelectedNode": "\\Day02\\Day02a_problem.txt",
   "PreviewInSolutionExplorer": false
 }

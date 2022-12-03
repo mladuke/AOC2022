@@ -10,7 +10,7 @@ maxcals3 = 0
 elfcount = 0
 for line in f:
     # Detect if line is empty
-    if line.split(): 
+    if line.split():
         #convert non empty line to an integer so comparsions and arithmetic
         if (int(line)>0):
             #running count of total cals for elf
